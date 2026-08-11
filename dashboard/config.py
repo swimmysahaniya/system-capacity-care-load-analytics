@@ -1,0 +1,9 @@
+APP_TITLE = "System Capacity & Care Load Analytics"
+
+PRIMARY_COLOR = "#2563EB"
+
+SUCCESS_COLOR = "#22C55E"
+
+WARNING_COLOR = "#F59E0B"
+
+DANGER_COLOR = "#EF4444"
