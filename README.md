@@ -8,7 +8,7 @@ The platform analyzes historical operational data, monitors care-load trends, ev
 
 ## 🌐 Live Demo
 
-🚀 **[Open the Live Streamlit Application](YOUR_STREAMLIT_APP_URL)**
+🚀 **[Open the Live Streamlit Application](https://system-capacity-care-load-analyticss.streamlit.app/)**
 
 The interactive application provides:
 
