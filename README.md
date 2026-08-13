@@ -6,6 +6,22 @@ The platform analyzes historical operational data, monitors care-load trends, ev
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **[Open the Live Streamlit Application](YOUR_STREAMLIT_APP_URL)**
+
+The interactive application provides:
+
+- 📊 Executive Dashboard
+- 📈 Operational Analytics
+- 🔮 Capacity Forecasting
+- 🤖 Machine Learning Insights
+- 📉 Model Performance Analysis
+- 🎯 Prediction Drivers
+- 🧠 Business Interpretation
+
+---
+
 ## 🚀 Project Overview
 
 **System Capacity & Care Load Analytics** transforms historical operational data into an interactive decision-support platform.
@@ -360,7 +376,7 @@ system-capacity-care-load-analytics/
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/swimmysahaniya/system-capacity-care-load-analytics>
 ```
 
 Navigate to the project:
@@ -561,6 +577,18 @@ Machine Learning / Full Stack Developer
 | Interactive Dashboard | ✅ Completed |
 | Documentation | ✅ Completed |
 | Version | **1.0.0** |
+
+---
+
+## 🎥 Project Walkthrough
+
+A complete walkthrough of the **System Capacity & Care Load Analytics** platform.
+
+▶️ **[Watch the Full Project Demo](YOUR_VIDEO_URL_HERE)**
+
+The walkthrough covers the complete analytics pipeline:
+
+**Data Processing → Feature Engineering → Operational Analytics → Forecasting → Machine Learning → Decision Support**
 
 ---
 
