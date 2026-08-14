@@ -9,5 +9,3 @@ lightgbm
 joblib
 openpyxl
 streamlit-extras
-
-streamlit-extras
